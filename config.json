@@ -1,6 +1,6 @@
 {
-    "token": "YOUR_BOT_TOKEN_HERE",
-    "prefix": ">",
-    "invite_link": "YOUR_BOT_INVITE_LINK_HERE",
+    "token": "MTE0NDkxODE5NjM3ODQxOTI0MA.G1MJly.qsz0LGQJI3oUDawDawnBE_Y-JnKCACeeGZZrZ4",
+    "prefix": "?",
+    "invite_link": "https://discord.com/oauth2/authorize?client_id=1144918196378419240&integration_type=8&scope=applications.commands",
     "support_server_link": "YOUR_SUPPORT_SERVER_LINK_HERE"
 }
