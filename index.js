@@ -180,4 +180,4 @@ client.on('messageCreate', async message => {
 });
 
 // Log in to Discord with your bot token
-client.login(config.token);
+client.login(process.env.CLIENT_TOKEN); //signs the bot in with token
